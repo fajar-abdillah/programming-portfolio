@@ -1,6 +1,8 @@
- /*
- * Author: Abdillah Fajar
- */
+/*
+Author: Abdillah Fajar
+Microcontroller: PIC16F877A
+IDE: MPLAB X
+*/
 
 #include <xc.h>
 #include "uart.h"
