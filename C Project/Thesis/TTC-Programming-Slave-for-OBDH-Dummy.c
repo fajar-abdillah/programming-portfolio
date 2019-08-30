@@ -1,5 +1,7 @@
 /*
-Author : Abdillah Faisal Nur Fajar
+Author: Abdillah Faisal Nur Fajar
+Microcontroller: PIC16F877A
+IDE: MPLAB  X
 */
 
 #include <xc.h>
