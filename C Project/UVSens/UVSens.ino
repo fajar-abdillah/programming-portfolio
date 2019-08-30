@@ -1,3 +1,9 @@
+/*
+Author: Abdillah Faisal Nur Fajar
+Microcontroller: Arduino Nano
+IDE: ArduinoIDE
+*/
+
 double sensorValue, lux;
 int analogValue;
 
