@@ -10,4 +10,4 @@ It's the main TTC subsystem program that I made. It used to receive and process 
 
 ## TT-Programming-Slave-for-OBDH-Dummy
 
-It's de OBDH subsystem dummy that sent the data to TTC subsystem if there is a command.
+It's de OBDH subsystem dummy that sent the data to TTC subsystem if receive the command.
