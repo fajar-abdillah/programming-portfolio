@@ -1,6 +1,6 @@
-# Portofolio
+# Portfolio
 
-This repository contains my personal programming portofolio from my project.
+This repository contains my personal programming portfolio from my project.
 
 ## Contact Me
 - **email1**   : *fajar.abdillahfn@gmail.com*
